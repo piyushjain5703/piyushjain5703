@@ -4,7 +4,7 @@
 
 **Software Development Engineer (Backend) @ Traveloka · IIT Dharwad '24**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushjain5703)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-jain5703)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjain5703@gmail.com)
 
 </div>
@@ -78,7 +78,7 @@ While I can't share code, here's what I've built:
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/piyushjain5703) • [Email](mailto:piyushjain5703@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/piyush-jain5703) • [Email](mailto:piyushjain5703@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyushjain5703&color=brightgreen&style=flat-square)
 
